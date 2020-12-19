@@ -1,0 +1,90 @@
+.body {
+  background-color:yellow
+}
+
+.navbar {
+  background-color:dodgerblue;
+  font-size:20px
+}
+
+.navbar a {
+  color:white;
+  text-decoration:none;
+  padding:20px
+}
+
+.portion {
+  max-width:500px;
+  word-wrap:break-word
+}
+
+.get {
+  position:absolute;
+  max-width:500px;
+  top:30px;
+  left:800px;
+  word-wrap:break-word;
+}
+
+.help {
+  position:absolute;
+  max-width:500px;
+  top:200px;
+  word-wrap:break-word;
+}
+
+.types {
+  position:absolute;
+  max-width:500px;
+  top:200px;
+  left:800px;
+  word-wrap:break-word;
+}
+
+.downsides {
+  position:absolute;
+  max-width:500px;
+  top:450px;
+  word-wrap:break-word;
+}
+
+.companian {
+  position:absolute;
+  top:450px;
+  left:550px;
+  height:200px
+}
+
+.companiancap {
+  position:absolute;
+  top:650px;
+  left:550px;
+  max-width:300px;
+  word-wrap:break-word;
+}
+
+.guide {
+  position:absolute;
+  left:900px;
+  top:450px;
+  height:200px
+}
+
+.guidecap {
+  position:absolute;
+  left:900px;
+  top:650px
+}
+
+.rescue {
+  position:absolute;
+  left:1250px;
+  top:450px;
+  height:200px
+}
+
+.rescuecap {
+  position:absolute;
+  left:1250px;
+  top:650px
+}
